@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dance with Me",
+  "base_artist": "beabadoobee",
+  "createdAt": "2026-01-14T04:43:36.514872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DANCE WITH ME - Campfire Session",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/01_DANCE_WITH_ME_-_Campfire_Session_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Diplo feat. Thomas Rhett & Young Thug",
+      "has_synced": true,
+      "path": "select/02_Dance_with_Me_Diplo_feat._Thomas_Rhett_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/03_Dance_with_Me_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Morgan Evans feat. Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/04_Dance_with_Me_Morgan_Evans_feat._Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dance with Me (feat. Kelsea Ballerini)",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/05_Dance_with_Me_(feat._Kelsea_Ballerini)_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/06_Dance_With_Me_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/07_Dance_With_Me_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/08_Dance_With_Me_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Dance With Me",
+      "artist": "The Rat Pack",
+      "has_synced": false,
+      "path": "select/09_Come_Dance_With_Me_The_Rat_Pack.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/10_Dance_with_Me_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Wants To Dance With Me",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/11_She_Wants_To_Dance_With_Me_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "2 Brothers On the 4th Floor",
+      "has_synced": false,
+      "path": "select/12_Dance_With_Me_2_Brothers_On_the_4th_Floor.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Don't Want to Dance with Me",
+      "artist": "Monarchy",
+      "has_synced": true,
+      "path": "select/13_You_Don't_Want_to_Dance_with_Me_Monarchy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Won't You Come Dance WIth Me",
+      "artist": "Commodores",
+      "has_synced": false,
+      "path": "select/14_Won't_You_Come_Dance_WIth_Me_Commodores.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dance with Me (feat. Thomas Rhett & Young Thug)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/15_Dance_with_Me_(feat._Thomas_Rhett_&_Young_Thug)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/16_Dance_With_Me_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dance With Me (12\" New edit)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/17_Dance_With_Me_(12__New_edit)_Alphaville.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance with Me",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_with_Me_beabadoobee.txt"
+    }
+  ]
+}
